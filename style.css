@@ -1,0 +1,238 @@
+.haead {
+    display: flex;
+    justify-content: center;
+}
+
+.haead a {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+.G3-taxt {
+    margin-bottom: -43px;
+    margin-top: 24px;
+    margin-left: 71px;
+    font-size: 50px;
+}
+
+.Architects-taxt1 {
+    text-align: center;
+    font-weight: 200;
+    font-size: 83px;
+    color: black;
+}
+
+.Architects-p {
+    text-align: center;
+    color: #727272;
+    font-weight: 200;
+}
+
+.Architects-but {
+    padding: 20px 25px;
+    margin-left: 45%;
+    border-radius: 8px;
+    color: #FFF;
+    padding: 20px 25px;
+    font-size: 1.25rem;
+    background: #FF900E;
+    padding: 20px 25px;
+}
+
+
+.Architects-1 img {
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 17%;
+}
+
+nav {
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+.Quick {
+    display: flex;
+    padding: 10px;
+    margin-top: 18%;
+}
+
+.Quick-img {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+
+.Quick-taxt {
+
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 15%;
+}
+
+.Quick-taxt h1 {
+    font-size: 60px;
+}
+
+.spn {
+    color: #727272;
+}
+
+.spn2 {
+    color: #FF900E;
+}
+
+.Quick-taxt p {
+    color: #727272;
+}
+
+.Quick-taxt button {
+    padding: 20px 25px;
+    margin-left: 25%;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 1.25rem;
+    background: #FF900E;
+
+}
+
+.Features-you {
+    margin-top: 18%;
+}
+
+
+.Features {
+    font-size: 45px;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+}
+
+
+.Enjoy {
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background: #FFF;
+    width: 71%;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+
+.Enjoy:hover{
+    background: #e8a7a7;
+    border: 2px solid #d60a62;
+    color: #000;
+}
+
+.love-enjoy {
+    display: flex;
+}
+
+.will button {
+    padding: 20px 25px;
+    margin-left: 25%;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 1.25rem;
+    background: #FF900E;
+}
+
+.Some-Facts {
+    margin-top: 10%;
+}
+
+.Some-Facts h1 {
+    font-size: 35px;
+    color: #000;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.Some-Facts p {
+    font-size: 25PX;
+    color: #727272;
+    padding: 10px;
+}
+
+.somg-img {
+
+    border: 5PX solid #828c0e;
+    width: 140PX;
+    height: 162PX;
+    border-radius: 10PX;
+    align-items: center;
+    padding: 32px;
+}
+
+.somg-img:hover{
+    color: rgb(3, 11, 18);
+    background-color: #76d6eb;
+    border: 2PX solid #cf0854;
+}
+
+
+
+
+
+
+
+.somg-img h3 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 0px
+}
+
+.somg-img p{
+    color: #727272;
+    font-size: 15px;
+    text-align: center;
+}
+.somg-img img {
+    margin-left: 35px;
+    margin-bottom: 10px;
+
+}
+
+
+.somg {
+    display: flex;
+    gap: 109PX;
+    padding: 27PX;
+    margin-left: 102px;
+
+}
+
+
+
+.Our-Sponsors h1{
+text-align: center;
+font-size: 50px;
+color: black;
+font-weight: bold;
+}
+
+.Our-Sponsors p{
+    text-align: center;
+    color: #727272;
+}
+
+
+.Sponsors{
+    display: flex;
+    padding: 37px;
+    gap: 92px;
+}
+
+
+
+
